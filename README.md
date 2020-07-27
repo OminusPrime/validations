@@ -1,4 +1,4 @@
 # validations
 blue kale validation repo for training
 
-validations.py is script to validate the username; It is missing a function call
+validations.py is a script to validate usernames. You can now run vailidate_user; parametes were sent through main()
